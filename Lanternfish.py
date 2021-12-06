@@ -1,7 +1,4 @@
 lanternFish = [3,4,3,1,2]
-#lanternFish = [2,3,2,0,1]
-#lanternFish = [1,2,1,6,0,8]
-#lanternFish = [0,1,0,5,6,7,8]
 
 def newCycle(i):
 
